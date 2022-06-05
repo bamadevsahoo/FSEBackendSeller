@@ -5,5 +5,9 @@
     <RootNamespace>E_Auction.Seller.API</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+  </ItemGroup>
+
 
 </Project>
